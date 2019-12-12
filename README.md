@@ -20,3 +20,8 @@ $ git init
 ## CTF
 * 余弦の安全技能树简版 (https://evilcos.me/security_skill_tree_basic/index.html)
 ![](https://evilcos.me/security_skill_tree_basic/security_skill_tree_basic_files/images/%E5%AE%89%E5%85%A8%E6%8A%80%E8%83%BD%E6%A0%91%E7%AE%80%E7%89%88%202.jpg)
+
+## Chainer
+試行錯誤を素早く繰り返せる  
+時間の掛かる計算を複数のマシンやデバイスに分散して処理すること  
+モデルを訓練する段階+訓練されたモデルを活用する推論の段階
