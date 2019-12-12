@@ -3,8 +3,17 @@
 resources available per chip  
 “up and to the right” Moore’s Law graph ↗️  
 ### Abstraction 
-use abstractions to represent the design at **different
-levels of representation**  
+use abstractions to represent the design at **different levels of representation**  
 ### Make the Common Case Fast 
-### Performance via Parallelism  
+### Performance via Parallelism 
+### Pipelining
+A prevalent pattern of parallelism  
+**human chain** to carry a water
+source to fire v.s. **individuals running back and forth**  
+### Prediction  
+### Hierarchy of Memories
+caches give illusion: main memory nearly **as fast as the top** of the hierarchy, **as big and cheap as the bottom** of the hierarchy  
+### Dependability via Redundancy
+any physical device can fail  
+
 
