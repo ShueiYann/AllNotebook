@@ -30,7 +30,7 @@ independent of the computer: compilers and assemblers can translate
 #### inputting data
 #### outputting data
 #### processing data
-! [](./images/Relative performance per unit cost.png)
+! [](./images/Relative%20performance%20per%20unit%20cost.png)
 #### storing data
 **volatile memory: main memory, primary memory**  
 DRAM
