@@ -30,17 +30,27 @@ independent of the computer: compilers and assemblers can translate
 #### inputting data
 #### outputting data
 #### processing data
-![](./images/Relative_performance_per_unit_cost.png)
 #### storing data
 **volatile memory: main memory, primary memory**  
-DRAM
+DRAM  
 **nonvolatile memory: secondary memory**  
 disk  
 flash memory: wear out aft er 100,000 to 1,000,000 writes  
 
 ### Communication
-Ethernet: local area network (LAN)
+Ethernet: local area network (LAN)  
 Internet: wide area network (WAN)
+
+### Technologies for Building Processors and Memory
+![](./images/Relative_performance_per_unit_cost.png)
+conductors, insulators, switches  
+
+#### Performance
+response time  
+throughput  
+
+
+
 
 
 
