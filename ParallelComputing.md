@@ -8,7 +8,7 @@ eg: Intel Core i7
 ➡️generate a peak of 25.6 billion 64-bit **data memory references** per second  
 ➡️a peak **instruction demand** of about 12.8 billion 128-bit instruction references  
 ➡️total peak bandwidth of 409.6 GB/sec!  
-(25.6\*64/8+12.8\:128/8 Gigabyte)  
+(25.6\*64/8+12.8\*128/8 Gigabyte)  
 
 - performance and power trade-offs  
 
