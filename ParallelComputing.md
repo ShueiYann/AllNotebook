@@ -13,23 +13,27 @@ eg: Intel Core i7
 - performance and power trade-offs  
 
 ## Chapter 4. Data-Level Parallelism in Vector, SIMD, and GPU Architectures 
-![](./images/parallelism.png)
-**data parallel algorithms**:  simultaneous operations across large sets of data  
-* desirable for any kind of tightly-coupled parallel or vector machine
-* map nested parallelism onto a flat parallel machine  
-**multiple threads of control**  
-in most applications there is significantly more data-parallelism available than control parallelism.  
-![](./images/arguing-for-two-powerful-vector-processors-versus-many-simple-processors.png)
-**single instruction, multiple data (SIMD) architecture**  
-think sequentially yet achieves parallel speedup by having parallel data operations.  
+![](./images/parallelism.png)  
+
+- **data parallel algorithms**:  simultaneous operations across large sets of data  
+  * desirable for any kind of tightly-coupled parallel or vector machine
+  * map nested parallelism onto a flat parallel machine  
+- **multiple threads of control**  
+- most applications significantly more data-parallelism available than control parallelism  
+![](./images/arguing-for-two-powerful-vector-processors-versus-many-simple-processors.png)  
+
+&nbsp  
+
+1. **single instruction, multiple data (SIMD) architecture**  
+- think sequentially yet achieves parallel speedup by having parallel data operations  
 >The most efficient way to execute a vectorizable application is a vector processor. 
-vector programs strive to keep memory busy.  
-**multiple instruction multiple data (MIMD)**  
-![](./images/GPU-architecture.png)
-![](./images/GPU-Memory-Hierarchy-Review.png)
+- vector programs strive to keep memory busy  
+2. **multiple instruction multiple data (MIMD)**  
+![](./images/GPU-architecture.png)  
+![](./images/GPU-Memory-Hierarchy-Review.png)  
 
 
-
+&nbsp  
 
 
 
