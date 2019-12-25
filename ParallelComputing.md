@@ -1,4 +1,25 @@
-# Computer Architecture
+# [Computer Architecture: Quantitative Approach 5th Edition](http://uni-site.ir/khuelec/wp-content/uploads/Computer-Architecture-A-Quantitative-Approach.pdf)
+## Chapter 4. Data-Level Parallelism in Vector, SIMD, and GPU Architectures 
+![](./images/parallelism.png)
+**data parallel algorithms**:  simultaneous operations across large sets of data  
+* desirable for any kind of tightly-coupled parallel or vector machine
+* map nested parallelism onto a flat parallel machine  
+**multiple threads of control**  
+in most applications there is significantly more data-parallelism available than control parallelism.  
+![](./images/arguing-for-two-powerful-vector-processors-versus-many-simple-processors.png)
+**single instruction, multiple data (SIMD) architecture**  
+think sequentially yet achieves parallel speedup by having parallel data operations.  
+>The most efficient way to execute a vectorizable application is a vector processor. 
+vector programs strive to keep memory busy.  
+**multiple instruction multiple data (MIMD)**  
+
+
+
+
+
+
+
+# Computer Organization & Design: The Hardware/Software Interface, 5th Edition
 
 ## 8 Great Ideas
 
