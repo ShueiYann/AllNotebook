@@ -1,15 +1,15 @@
 # [Computer Architecture: Quantitative Approach 5th Edition](http://uni-site.ir/khuelec/wp-content/uploads/Computer-Architecture-A-Quantitative-Approach.pdf)
 ## Chapter 2. Memory Hierarchy Design 
 - importance of the memory hierarchy➡️performance of processors  
-```
+
 eg: Intel Core i7  
-  4 cores, 3.2 GHz clock rate  
-  generate two data memory references per core each clock cycle  
+&nbsp;&nbsp;4 cores, 3.2 GHz clock rate  
+&nbsp;&nbsp;generate two data memory references per core each clock cycle  
 ➡️generate a peak of 25.6 billion 64-bit **data memory references** per second  
 ➡️a peak **instruction demand** of about 12.8 billion 128-bit instruction references  
 ➡️total peak bandwidth of 409.6 GB/sec!  
 (25.6\*64/8+12.8\:128/8 Gigabyte)  
-```
+
 - performance and power trade-offs  
 
 ## Chapter 4. Data-Level Parallelism in Vector, SIMD, and GPU Architectures 
