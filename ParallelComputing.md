@@ -12,7 +12,8 @@ think sequentially yet achieves parallel speedup by having parallel data operati
 >The most efficient way to execute a vectorizable application is a vector processor. 
 vector programs strive to keep memory busy.  
 **multiple instruction multiple data (MIMD)**  
-
+![](./images/GPU-architecture.png)
+![](./images/GPU-Memory-Hierarchy-Review.png)
 
 
 
